@@ -1,0 +1,87 @@
+<resources>
+
+    <string name="tvshow_name">TVShow Title</string>
+    <string name="desc_tvshow">Description</string>
+    <string name="title_tvshow">TextView</string>
+    <string name="runtime_tvshow">TextView</string>
+    <string name="descr_tvshow">Desc:</string>
+    <string name="img_tvshow">img</string>
+    <string name="releasedate_tvshow">TextView</string>
+
+
+    <string-array name="data_name_tvshow">
+        <item>Final Space</item>
+        <item>Krypton</item>
+        <item>Legacies</item>
+        <item>The Rookie</item>
+        <item>The Resident</item>
+        <item>Station 19</item>
+        <item>Violet Evergarden</item>
+        <item>Titans</item>
+        <item>Captain Tsubasa</item>
+        <item>The Rain</item>
+    </string-array>
+
+    <string-array name="data_description_tvshow">
+        <item>An astronaut named Gary and his planet-destroying sidekick Mooncake embark on serialized journeys through space in order to unlock the mystery of “Final Space,” the last point in the universe, if it actually does exist.</item>
+        <item>Set two generations before the destruction of the legendary Man of Steel`s home planet, Krypton follows Superman`s grandfather - whose House of El was ostracized and shamed — as he fights to redeem his family`s honor and save his beloved world from chaos</item>
+        <item>In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson`s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman`s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.</item>
+        <item>Starting over isn`t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force`s oldest rookie, he`s met with skepticism from some higher-ups who see him as just a walking midlife crisis.</item>
+        <item>A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine. Resident</item>
+        <item>A group of heroic firefighters at Seattle Fire Station 19—from captain to newest recruit—risk their lives and hearts both in the line of duty and off the clock. These brave men and women are like family, literally and figuratively, and together they put their own lives in jeopardy as first responders to save the lives of others.</item>
+        <item>Violet Evergarden - The war is over, and Violet Evergarden needs a job. Scarred and emotionless, she takes a job as a letter writer to understand herself and her past.</item>
+        <item>Titans - A team of young superheroes led by Nightwing (formerly Batman`s first Robin) form to combat evil and other perils.</item>
+        <item>The passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing football at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession. In order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.</item>
+        <item>The Rain - After a brutal virus wipes out most of the population, two young siblings embark on a perilous search for safety. A Scandinavian thriller series.</item>
+
+    </string-array>
+
+    <string-array name="data_runtimex_tvshow">
+        <item>22m</item>
+        <item>45m</item>
+        <item>43m</item>
+        <item>43m</item>
+        <item>42m</item>
+        <item>45m</item>
+        <item>25m</item>
+        <item>43m</item>
+        <item>22m</item>
+        <item>45m</item>
+    </string-array>
+
+
+    <string-array name="data_releasedate_tvshow">
+        <item>Season 2 of Final Space premiered on June 24, 2019. </item>
+        <item>Season 2 of Krypton premiered on June 12, 2019. </item>
+        <item>Season 1 of Legacies premiered on October 25, 2018. </item>
+        <item>Season 1 of The Rookie premiered on October 16, 2018. </item>
+        <item>Season 2 of The Resident premiered on September 24, 2018. </item>
+        <item>Season 2 of Station 19 premiered on October 3, 2018. </item>
+        <item>2018 | 13 Episodes </item>
+        <item>Season 1 of Titans premiered on October 12, 2018. </item>
+        <item>Season 1 of Captain Tsubasa premiered on April 3, 2018</item>
+        <item>Season 2 of The Rain premiered on May 17, 2019.</item>
+    </string-array>
+
+
+    <string name="list_tvshow_image">List TVShow Image</string>
+    <string name="text_runtime_tvshow">Runtime : %1$s</string>
+    <string name="text_releasedate_tvshow">Release Date : %1$s</string>
+
+    <string name="appbartitle_tvshow">TV Show Details</string>
+    <string name="appbartitle_tvshowlist">TV Show List</string>
+
+
+    <string name="change_language_settings_tvshow">Change Languege Setting</string>
+
+    <string name="title_home_tvshow">Movies</string>
+    <string name="title_dashboard_tvshow">TV Shows</string>
+    <string name="title_notifications_tvshow">Notif</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_tvshow">Hello blank fragment</string>
+    <string name="setasfavoritetv">Set As Favorite</string>
+    <string name="favoritetv"> Favorite</string>
+    <string name="favorite_tvshow">Favorite TV Show</string>
+
+</resources>

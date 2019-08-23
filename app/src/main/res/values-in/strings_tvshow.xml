@@ -1,0 +1,85 @@
+<resources>
+
+    <string name="tvshow_name">TVShow Title</string>
+    <string name="desc_tvshow">Deskripsi</string>
+    <string name="title_tvshow">Judul Acara TV</string>
+    <string name="runtime_tvshow">Runtime</string>
+    <string name="descr_tvshow">Deskripsi:</string>
+    <string name="img_tvshow">img</string>
+    <string name="releasedate_tvshow">Tanggal Rilis: </string>
+
+
+    <string-array name="data_name_tvshow">
+        <item>Final Space</item>
+        <item>Krypton</item>
+        <item>Legacies</item>
+        <item>The Rookie</item>
+        <item>The Resident</item>
+        <item>Station 19</item>
+        <item>Violet Evergarden</item>
+        <item>Titans</item>
+        <item>Captain Tsubasa</item>
+        <item>The Rain</item>
+    </string-array>
+
+    <string-array name="data_description_tvshow">
+        <item> Seorang astronot bernama Gary dan sahabat karibnya yang menghancurkan planet Mooncake memulai perjalanan serial melalui ruang angkasa untuk membuka misteri "Ruang Akhir," titik terakhir di alam semesta, jika itu benar-benar ada. </item>
+        <item> Mengatur dua generasi sebelum penghancuran planet rumah Man Steel yang legendaris, Krypton mengikuti kakek Superman - yang House Elnya dikucilkan dan dipermalukan - saat ia berjuang untuk menebus kehormatan keluarganya dan menyelamatkan orang yang dicintainya. dunia dari kekacauan </item>
+        <item> Di tempat penyihir muda, vampir, dan manusia serigala dibesarkan untuk menjadi diri terbaik mereka terlepas dari impuls terburuk mereka, putri Klaus Mikaelson, Hope Mikaelson, 17 tahun, kembar Alaric Saltzman, kembar Alizzle, Lizzie dan Josie Saltzman, antara lain, tumbuh menjadi pahlawan dan penjahat di The Salvatore School for the Young and Gifted. </item>
+        <item> Memulai dari awal bukan hal yang mudah, terutama untuk pria kota kecil John Nolan yang, setelah insiden yang mengubah hidup, mengejar mimpinya menjadi petugas LAPD. Sebagai rookie tertua angkatan bersenjata, ia bertemu dengan skeptisisme dari beberapa atasan yang melihatnya hanya sebagai krisis setengah baya berjalan. </item>
+        <item> Seorang residen senior yang tangguh dan cerdas memandu seorang dokter muda yang idealis melewati hari pertamanya, menarik kembali tirai tentang apa yang sebenarnya terjadi, baik dan buruk, dalam kedokteran modern. Residen </item>
+        <item> Sekelompok petugas pemadam kebakaran yang gagah berani di Seattle Fire Station 19 — dari kapten menjadi anggota baru — mempertaruhkan nyawa dan hati mereka baik dalam tugas maupun di luar jam kerja. Pria dan wanita pemberani ini seperti keluarga, secara harfiah dan kiasan, dan bersama-sama mereka membahayakan hidup mereka sendiri sebagai responden pertama yang menyelamatkan nyawa orang lain. </item>
+        <item> Violet Evergarden - Perang sudah berakhir, dan Violet Evergarden membutuhkan pekerjaan. Luka dan tanpa emosi, ia mengambil pekerjaan sebagai penulis surat untuk memahami dirinya sendiri dan masa lalunya. </item>
+        <item> Titans - Sebuah tim pahlawan super muda yang dipimpin oleh Nightwing (sebelumnya Robin pertama Robin) terbentuk untuk memerangi kejahatan dan bahaya lainnya. </item>
+        <item> Kisah penuh gairah dari seorang siswa sekolah dasar yang pikiran dan mimpinya berputar hampir seluruhnya di sekitar cinta sepak bola. Tsubasa Oozora yang berusia 11 tahun mulai bermain sepak bola pada usia yang sangat muda, dan sementara itu kebanyakan hanya olahraga rekreasi untuk teman-temannya, baginya, itu berkembang menjadi semacam obsesi. Untuk mengejar mimpinya dengan kemampuan sekolah dasar terbaiknya, Tsubasa pindah bersama ibunya ke kota Nankatsu, yang terkenal dengan tim sepak bola sekolah dasar yang sangat baik. Tetapi meskipun ia mudah menjadi yang terbaik di kota lamanya, Nankatsu memiliki banyak kompetisi, dan ia akan membutuhkan semua keterampilan dan bakatnya untuk menonjol dari kerumunan baru ini. </item>
+        <item> The Rain - Setelah virus brutal menyapu bersih sebagian besar populasi, dua saudara kandung memulai pencarian yang berbahaya untuk keamanan. Serial thriller Skandinavia. </item>    </string-array>
+    
+    <string-array name="data_runtimex_tvshow">
+        <item>22menit</item>
+        <item>45menit</item>
+        <item>43menit</item>
+        <item>43menit</item>
+        <item>42menit</item>
+        <item>45menit</item>
+        <item>25menit</item>
+        <item>43menit</item>
+        <item>22menit</item>
+        <item>45menit</item>
+    </string-array>
+
+
+    <string-array name="data_releasedate_tvshow">
+        <item>Season 2 Final Space tayang perdana Juni 24, 2019. </item>
+        <item>Season 2 Krypton tayang perdana Juni 12, 2019. </item>
+        <item>Season 1 Legacies tayang perdana Oktober 25, 2018. </item>
+        <item>Season 1 The Rookie tayang perdana Oktober 16, 2018. </item>
+        <item>Season 2 The Resident tayang perdana September 24, 2018. </item>
+        <item>Season 2 Station 19 tayang perdana Oktober 3, 2018. </item>
+        <item>2018 | 13 Episode </item>
+        <item>Season 1 Titans tayang perdana Oktober 12, 2018. </item>
+        <item>Season 1 Captain Tsubasa tayang perdana April 3, 2018</item>
+        <item>Season 2 The Rain tayang perdana May 17, 2019.</item>
+    </string-array>
+
+
+    <string name="list_tvshow_image">Daftar Acara TV </string>
+    <string name="text_runtime_tvshow">Runtime : %1$s</string>
+    <string name="text_releasedate_tvshow">Tanggal Rilis : %1$s</string>
+
+    <string name="appbartitle_tvshow">Detail Acara TV</string>
+    <string name="appbartitle_tvshowlist">Daftar Acara TV</string>
+
+    <string name="change_language_settings_tvshow">Ganti Bahasa</string>
+
+
+    <string name="title_home_tvshow">Film</string>
+    <string name="title_dashboard_tvshow">Acara TV</string>
+    <string name="title_notifications_tvshow">Notif</string>
+
+    <string name="hello_blank_fragment_tvshow">Halo</string>
+    <string name="setasfavoritetv">Jadikan Favorit</string>
+    <string name="favoritetv"> Favorit</string>
+    <string name="favorite_tvshow">Acara TV Favorit</string>
+
+
+</resources>

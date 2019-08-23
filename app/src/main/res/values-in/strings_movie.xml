@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Movies Sub 4</string>
+    <string name="movie_name">Judul Film</string>
+    <string name="desc">Deskripsi</string>
+    <string name="title">Judul</string>
+    <string name="runtime">Popularity</string>
+    <string name="descr">Deskripsi:</string>
+    <string name="img">img</string>
+    <string name="releasedate">Tanggal Rilis</string>
+
+
+    <string-array name="data_name">
+        <item>Avengers: Infinity War (2018)</item>
+        <item>Venom</item>
+        <item>Robin Hood</item>
+        <item>Aquaman</item>
+        <item>Bohemian Rhapsody</item>
+        <item>The Mule</item>
+        <item>Deadpool 2</item>
+        <item>Bumblebee</item>
+        <item>Black panther</item>
+        <item>Mortal Engines</item>
+        <item>Creed II</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti. </item>
+                <item> Venom- Jurnalis investigasi Eddie Brock berusaha untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri. </item>
+                <item> Tentara Salib yang mengeras perang dan komandan Moornya melancarkan pemberontakan yang berani melawan mahkota Inggris yang korup. </item>
+                <item> Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan. Yang menghalangi jalannya adalah Arthur Curry, setengah manusia setengah manusia, saudara setengah Atlantis dan pewaris sejati takhta </item>
+                <item> Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon membawa dunia musik dengan badai ketika mereka membentuk band rock -n-roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan. </item>
+                <item> Earl Stone, seorang pria berusia 80-an, bangkrut, sendirian, dan menghadapi penyitaan bisnisnya ketika ia ditawari pekerjaan yang hanya mengharuskannya mengemudi. Cukup mudah, tetapi, tanpa diketahui Earl, dia baru saja mendaftar sebagai kurir narkoba untuk kartel Meksiko. Dia melakukannya dengan sangat baik sehingga muatannya meningkat secara eksponensial, dan Earl menabrak radar agen DEA pengisian keras Colin Bates </item>
+                <item> Deadpool tentara bayaran Wisecracking bertarung melawan Cable yang jahat dan kuat dan orang jahat lainnya untuk menyelamatkan nyawa anak laki-laki. </item>
+        <item> Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie membangkitkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa. </item>
+                <item> Raja T`Challa pulang dari Amerika ke negara Afrika Wakanda yang tertutup dan berteknologi maju untuk melayani sebagai pemimpin baru negaranya. Namun, T`Challa segera menemukan bahwa ia ditantang untuk naik takhta oleh faksi di negaranya sendiri maupun di luar. Menggunakan kekuatan yang disediakan untuk raja-raja Wakandan, T`Challa mengasumsikan mantel Black Panther untuk bergabung dengan pacar Nakia, ibu-ratu, saudara perempuan-anak kandungnya, anggota Dora Milaje (pasukan khusus `Wakandan`) dan seorang agen rahasia Amerika. , untuk mencegah Wakanda terseret ke dalam perang dunia. </item>
+                <item> Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami perjumpaan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya. </item>
+                <item> Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan dengan ikatan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya. </item>
+    </string-array>
+    <string-array name="data_runtimex">
+        <item>2jam 40menit</item>
+        <item>2jam 20menit</item>
+        <item>1jam 56menit</item>
+        <item>2jam 22menit</item>
+        <item>2jam 13menit</item>
+        <item>1jam 55menit</item>
+        <item>2jam 14menit</item>
+        <item>1jam 54menit</item>
+        <item>2jam 14menit</item>
+        <item>2jam 9menit</item>
+        <item>2jam 10menit</item>
+    </string-array>
+
+
+    <string-array name="data_releasedate">
+        <item>April 27, 2018</item>
+        <item>October 3, 2018</item>
+        <item>November 20, 2018</item>
+        <item>December 21, 2018</item>
+        <item>October 27, 2018</item>
+        <item>January 23, 2019</item>
+        <item>May 15, 2018</item>
+        <item>December 21, 2018</item>
+        <item>February 16, 2018</item>
+        <item>February 19, 2019</item>
+        <item>November 14, 2018</item>
+    </string-array>
+
+    <string name="list_movie_image">Daftar Film </string>
+    <string name="text_runtime">Popularity : %1$s</string>
+    <string name="text_releasedate">Tanggal Rilis : %1$s</string>
+
+    <string name="appbartitle_movie">Detail Film</string>
+
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="appbartitle_movielist">Daftar Film</string>
+    <string name="title_favorite">Favorit</string>
+
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Acara TV</string>
+
+    <string name="favorit_movie">Film Favorit</string>
+    <string name="setasfavorite">Jadikan Favorit</string>
+    <string name="favorite">Favorit</string>
+
+</resources>
